@@ -1,17 +1,20 @@
-<center><h1>how use this?</h1></center>
-<h2>before run app.py file you must setup PyQt5 lib to your pc</h2>
-<h2>then you can run application without any problam</h2>
+<center><h1>How to Use</h1></center>
+
+<h2>Before running <code>app.py</code>, make sure PyQt5 is installed on your system.</h2>
+<h2>Once PyQt5 is installed, the application will run without any issues.</h2>
+
 <hr>
-<center><h1>content</h1></center>
+
+<center><h1>Contents</h1></center>
 
 <p>
-  this app have use multiple default python modules and custum my own modules
+  This application uses several built-in Python modules along with my custom modules.
 </p>
+
 <h3>
   <ul>
-    <li>every gui interface contaib in gui.py.</li>
-    <li>server program are in server.py</li>
-    <li>client program are in client.py </li>
+    <li>All GUI components are located in <code>gui.py</code>.</li>
+    <li>The server-side logic is implemented in <code>server.py</code>.</li>
+    <li>The client-side logic is implemented in <code>client.py</code>.</li>
   </ul>
 </h3>
-
